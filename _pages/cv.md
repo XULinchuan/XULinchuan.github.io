@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.ENG. in Beijing University of Posts and Telecommunications (BUPT), 2013
+* Ph.D in The Hong Kong Polytechnic University (PolyU), 2018
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* From Aug. 2018 to now: Project Researcher
+  * The University of Tokyo
+  * Focus: Glaucoma progression predction using deep learning
+  * Supervisor: Professor Kenji Yamanishi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* From Sep. 2017 to July 2018: Ph. D student
+  * The Hong Kong Polytechnic University
+  * Focus: Heterogeneous Information Fusion in Network Embedding for Data Mining Applications
+  * Supervisor: Professor Jiannong Cao
   
-Skills
+* From Sep. 2015 to July 2016: Visiting Ph. D student
+  * University of Illinois at Chicago
+  * Focus: Application of Data Mining on Networks
+  * Supervisor: Professor Philip S. Yu
+  
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PAKDD Student Travel Award, 2018
+* DSAA Best Research Paper Award, 2017
+* DSAA Student Travel Award, 2017
+* WSDM Student Travel Award, 2017
 
 Publications
 ======
