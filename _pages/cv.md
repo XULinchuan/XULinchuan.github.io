@@ -38,9 +38,4 @@ Awards
 * DSAA Student Travel Award, 2017
 * WSDM Student Travel Award, 2017
 
-#Publications
-%======
-%  <ul>{% for post in site.publications %}
-%    {% include archive-single-cv.html %}
-%  {% endfor %}</ul>
   
