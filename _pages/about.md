@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-New! I am going to join the Hong Kong Polytechnic University as research assistant professor & recruit PhD students in July. More details are to come. Please contact me if you are interested.
+New! I am going to join the Hong Kong Polytechnic University as a research assistant professor & recruit PhD students in July. More details are to come. Please contact me if you are interested.
 
 I am now a postdoctoral researcher affliated to Department of Mathematical Informatics,
 Graduate School of Information Science and Technology, The University of Tokyo, under the supervision of Professor <a href="http://www.ibis.t.u-tokyo.ac.jp/yamanishi/index_e.html">Kenji Yamanishi</a>. 
