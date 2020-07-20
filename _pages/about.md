@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Xu, Linchuan (许林川)**
+## Xu, Linchuan (许林川)
 
 Research Assistant Professor
 
