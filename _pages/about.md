@@ -72,6 +72,7 @@ I am currently a research assistant professor with Department of Computing, The 
 - Neurocomputing
 - IEEE Access
 - Computational Social Networks
+
 ## Awards
 - 2018, PAKDD Student Travel Award
 - 2017, DSAA Best Research Paper Award
