@@ -35,8 +35,29 @@ I am currently a research assistant professor with Department of Computing, The 
 - **Linchuan Xu**, Jing Wang, Lifang He, Jiannong Cao, Xiaokai Wei, Philip S. Yu, Kenji Yamanishi, MixSp: A Framework for Embedding Heterogeneous Information Networks with Arbitrary Number of Node and Edge Types, IEEE Transactions on Knowledge and Data Engineering, 2019.
 - **Linchuan Xu**, Jiannong Cao, Xiaokai Wei, Philip S. Yu, Network Embedding via Coupled Kernelized Multi-dimensional Array Factorization, IEEE Transactions on Knowledge and Data Engineering, 2019. 
 
+*2018* <br>
+- **Linchuan Xu**, Xiaokai Wei, Jiannong Cao, Philip S. Yu, Multi-task Network Embedding, International Journal of Data Science and Analytics, 2018, 8(2), pp.183-198.
+- **Linchuan Xu**, Xiaokai Wei, Jiannong Cao, Philip S. Yu, ICANE: Interaction Content-Aware Network Embedding via Co-embedding of Nodes and Edges, International Journal of Data Science and Analytics, 2018. pp. 1-14.
 
 ## Conference Publications
-- 2020
+*2020* <br>
+- Jun Huang, **Linchuan Xu**, Jing Wang, Lei Feng and Kenji Yamanishi, Discovering Latent Class Labels for Multi-Label Learning, to appear in IJCAI-PRICAI 2020.
 
- 
+*2019* <by>
+- Yuhui Zheng, **Linchuan Xu**, Taichi Kiwaki, Jing Wang, Hiroshi Murata, Ryo Asaoka, Kenji Yamanishi, Glaucoma Progression Prediction Using Retinal Thickness via Latent Space Linear Regression,  KDD 2019. August 3-7, 2019. Alaska, USA. pp. 2278-2286.
+- Jing Wang, **Linchuan Xu**, Feng Tian, Atsushi Suzuki, Changqing Zhang, Kenji Yamanishi, Attributed Subspace Clustering, IJCAI 2019. August 10-16, 2019. Macao, China. pp. 3719-3725.
+- Jing Wang, Atsushi Suzuki, **Linchuan Xu**, Feng Tian, Liang Yang,  Kenji Yamanishi, Orderly Subspace Clustering, AAAI 2019. January 27 - February 1, 2019. Hawaii, USA. pp. 5264-5272.
+
+*2018* <br>
+- **Linchuan Xu**, Xiaokai Wei, Jiannong Cao, Philip S. Yu, On Learning Community-specific Similarity Metrics for Cold-start Link Prediction, IJCNN 2018. July 8-13, 2018. Rio, Brazil
+- **Linchuan Xu**, Xiaokai Wei, Jiannong Cao, Philip S. Yu, ICANE: Interaction Content Aware Network Embedding via Co-embedding of Nodes and Edges, PAKDD2018. June 3-6, 2018. Melbourne, Australia.
+- **Linchuan Xu**, Xiaokai Wei, Jiannong Cao, Philip S. Yu, On Exploring Semantic Meanings of Links for Embedding Social Networks, WWW 2018. April 23-27, 2018. Lyon, France. pp. 479-488.
+
+*2017* <br>
+- **Linchuan Xu**, Xiaokai Wei, Jiannong Cao, Philip S. Yu, Multiple Social Role Embedding, DSAA 2017. October 19-21, 2017. Tokyo, Japan. pp. 581-589.
+- **Linchuan Xu**, Xiaokai Wei, Jiannong Cao, Philip S. Yu, Multi-task Network Embedding,  DSAA 2017. October 19-21, 2017. Tokyo, Japan. pp. 571-580.
+- **Linchuan Xu**, Xiaokai Wei, Jiannong Cao, Philip S. Yu, Disentangled Link Prediction for Signed Networks via Disentangled Representation Learning ( **Best Research Paper**), DSAA 2017. October 19-21, 2017. Tokyo, Japan. pp. 676-685.
+- Xiaokai Wei, **Linchuan Xu**, Bokai Cao and Philip S. Yu, Cross View Link Prediction by Learning Noise-resilient Representation Consensus, WWW 2017. April 3-7, 2017. Perth, Australia. pp. 1611-1619.
+- **Linchuan Xu**, Xiaokai Wei, Jiannong Cao, Philip S. Yu, Embedding Identity and Interest for Social Networks} (Poster), WWW 2017. April 3-7, 2017. Perth, Australia. pp. 859-860.
+- **Linchuan Xu**, Xiaokai Wei, Jiannong Cao, Philip S. Yu, On Learning Mixed Community-specific Similarity Metrics for Cold-start Link Prediction (Poster), WWW 2017. April 3-7, 2017. Perth, Australia. pp. 861-862.
+- **Linchuan Xu**, Xiaokai Wei, Jiannong Cao, Philip S Yu, Embedding of Embedding (EOE): Joint Embedding for Coupled Heterogeneous Networks, WSDM 2017. February 6-10, 2017. Cambridge, UK. pp. 741-749.
