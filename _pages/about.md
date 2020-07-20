@@ -61,3 +61,11 @@ I am currently a research assistant professor with Department of Computing, The 
 - **Linchuan Xu**, Xiaokai Wei, Jiannong Cao, Philip S. Yu, Embedding Identity and Interest for Social Networks} (Poster), WWW 2017. April 3-7, 2017. Perth, Australia. pp. 859-860.
 - **Linchuan Xu**, Xiaokai Wei, Jiannong Cao, Philip S. Yu, On Learning Mixed Community-specific Similarity Metrics for Cold-start Link Prediction (Poster), WWW 2017. April 3-7, 2017. Perth, Australia. pp. 861-862.
 - **Linchuan Xu**, Xiaokai Wei, Jiannong Cao, Philip S Yu, Embedding of Embedding (EOE): Joint Embedding for Coupled Heterogeneous Networks, WSDM 2017. February 6-10, 2017. Cambridge, UK. pp. 741-749.
+
+
+## Teaching
+- COMP2022 Programming For Fintech Applications, 2021 Spring
+
+## Services
+
+## Awards
