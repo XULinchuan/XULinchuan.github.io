@@ -30,7 +30,7 @@ I am currently a research assistant professor with Department of Computing, The 
 </div>
 
 ## Research Interests
-Data mining, deep learning, and biomedical informatics. 
+Data mining, big data analytics, deep learning, and biomedical informatics. 
 
 ## News
 
