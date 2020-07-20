@@ -36,7 +36,7 @@ Data mining, big data analytics, deep learning, and biomedical informatics.
 
 ## Journal Publications
 *2020* <br>
-- Wei Li, **Linchuan Xu**, Zhixuan Liang, Senzhang Wang, Jiannong Cao, Chao Ma, Xiaohui Cui, \enquote{Sketch-then-Edit Generative Adversarial Network}, to appear in Knowledge-Based Systems.
+- Wei Li, **Linchuan Xu**, Zhixuan Liang, Senzhang Wang, Jiannong Cao, Chao Ma, Xiaohui Cui, Sketch-then-Edit Generative Adversarial Network, to appear in Knowledge-Based Systems.
 
 - **Linchuan Xu**, Ryo Asaoka, Taichi Kiwaki, Hiroki Sugiura, Yohei Hashimoto, Shotaro Asano, Hiroshi Murata, Atsuya Miki, Kazuhiko Mori, Yoko Ikeda, Takashi Kanamoto, Junkichi Yamagami, Kenji Inoue, Masaki Tanito, Kenji Yamanishi, Predicting the Glaucomatous Central 10 Degrees Visual Field from Optical Coherence Tomography using Deep Learning and Tensor Regression, American Journal of Ophthalmology, 2020.
 
