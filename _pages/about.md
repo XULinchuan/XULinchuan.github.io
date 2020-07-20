@@ -7,12 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-.main-container {
-    width: 100%;
-    max-width: unset;
-}
-</style>
+
+**Xu, Linchuan (许林川)**
 
 Research Assistant Professor
 
