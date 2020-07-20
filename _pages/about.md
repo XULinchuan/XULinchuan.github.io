@@ -8,11 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-New! I am going to join the Hong Kong Polytechnic University as a research assistant professor & recruit PhD students in July. More details are to come. Please contact me if you are interested.
+Research Assistant Professor
 
-I am now a postdoctoral researcher affliated to Department of Mathematical Informatics,
-Graduate School of Information Science and Technology, The University of Tokyo, under the supervision of Professor <a href="http://www.ibis.t.u-tokyo.ac.jp/yamanishi/index_e.html">Kenji Yamanishi</a>. 
-I obtained my Ph. D. degree in Department of Computing, The Hong Kong Polytechnic University, under the supervision of Professor <a href="http://www4.comp.polyu.edu.hk/~csjcao/">Jiannong Cao</a>, in 2018. Before that, I received my Bachelor's degree in Department of Information Engineering, Beijing University of Posts and Telecommunications in 2013. From 2015 to 2016, I visited <a href="http://bdsc.lab.uic.edu">BDSC lab</a> led by Professor <a href="https://www.cs.uic.edu/PSYu/">Philip S. Yu</a> in University of Illinois at Chicago, USA.
+Department of Computing
+The Hong Kong Polytechnic University
 
- My research interests include biomedical informatics, data mining, deep learning
- and machine learning in general.
+PQ813, Mong Man Wai Building, PolyU,
+Hung Hom, Kowloon, Hong Kong SAR, China
+
+E-mail: linchxu (at) comp.polyu.edu.hk
+
+___
+## Biography
+
+I am currently a research assistant professor with Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong. Prior to that, I was a post-doctoral researcher with Department of Mathematical Informatics, Graduate School of Information Science and Technology at the University of Tokyo, Japan, under the supervision of Professor <a href="http://www.ibis.t.u-tokyo.ac.jp/yamanishi/index_e.html">Kenji Yamanishi</a>, from August 2018 to June 2020. I received the B.E. degree in Information Engineering from Beijing University of Posts and Telecommunications in 2013, and the Ph.D. degree from Department of Computing of the Hong Kong Polytechnic University, under the supervision of Professor <a href="http://www4.comp.polyu.edu.hk/~csjcao/">Jiannong Cao</a>, in 2018. From 2015 to 2016, I visited BDSC lab led by Professor <a href="https://www.cs.uic.edu/PSYu/">Philip S. Yu</a> in University of Illinois at Chicago, USA. I have broad research interests including data mining, deep learning, and biomedical informatics.
+
+___
+## News
+
