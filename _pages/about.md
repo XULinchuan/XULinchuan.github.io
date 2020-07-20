@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+<style type="text/css">
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
 Research Assistant Professor
 
 Department of Computing<br>
