@@ -29,7 +29,12 @@ I am currently a research assistant professor with Department of Computing, The 
 
 ## Jounal Publications
 *2020* <br>
-**Linchuan Xu**, Ryo Asaoka, Taichi Kiwaki, Hiroki Sugiura, Yohei Hashimoto, Shotaro Asano, Hiroshi Murata, Atsuya Miki, Kazuhiko Mori, Yoko Ikeda, Takashi Kanamoto, Junkichi Yamagami, Kenji Inoue, Masaki Tanito, Kenji Yamanishi, Predicting the Glaucomatous Central 10 Degrees Visual Field from Optical Coherence Tomography using Deep Learning and Tensor Regression, American Journal of Ophthalmology, 2020.
+- **Linchuan Xu**, Ryo Asaoka, Taichi Kiwaki, Hiroki Sugiura, Yohei Hashimoto, Shotaro Asano, Hiroshi Murata, Atsuya Miki, Kazuhiko Mori, Yoko Ikeda, Takashi Kanamoto, Junkichi Yamagami, Kenji Inoue, Masaki Tanito, Kenji Yamanishi, Predicting the Glaucomatous Central 10 Degrees Visual Field from Optical Coherence Tomography using Deep Learning and Tensor Regression, American Journal of Ophthalmology, 2020.
+
+*2019* <br>
+- **Linchuan Xu**, Jing Wang, Lifang He, Jiannong Cao, Xiaokai Wei, Philip S. Yu, Kenji Yamanishi, MixSp: A Framework for Embedding Heterogeneous Information Networks with Arbitrary Number of Node and Edge Types, IEEE Transactions on Knowledge and Data Engineering, 2019.
+- **Linchuan Xu**, Jiannong Cao, Xiaokai Wei, Philip S. Yu, Network Embedding via Coupled Kernelized Multi-dimensional Array Factorization, IEEE Transactions on Knowledge and Data Engineering, 2019. 
+
 
 ## Conference Publications
 - 2020
