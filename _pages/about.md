@@ -27,7 +27,7 @@ I am currently a research assistant professor with Department of Computing, The 
 
 ## News
 
-## Jounal Publications
+## Jounral Publications
 *2020* <br>
 - **Linchuan Xu**, Ryo Asaoka, Taichi Kiwaki, Hiroki Sugiura, Yohei Hashimoto, Shotaro Asano, Hiroshi Murata, Atsuya Miki, Kazuhiko Mori, Yoko Ikeda, Takashi Kanamoto, Junkichi Yamagami, Kenji Inoue, Masaki Tanito, Kenji Yamanishi, Predicting the Glaucomatous Central 10 Degrees Visual Field from Optical Coherence Tomography using Deep Learning and Tensor Regression, American Journal of Ophthalmology, 2020.
 
