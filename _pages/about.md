@@ -13,7 +13,7 @@ Research Assistant Professor
 Department of Computing<br>
 The Hong Kong Polytechnic University
 
-PQ813, Mong Man Wai Building, PolyU,
+PQ813, Mong Man Wai Building, PolyU<br>
 Hung Hom, Kowloon, Hong Kong SAR, China
 
 E-mail: linchxu (at) comp.polyu.edu.hk
@@ -26,5 +26,12 @@ I am currently a research assistant professor with Department of Computing, The 
 </div>
 
 ## News
+
+## Jounal Publications
+- 2020
+  - **Linchuan Xu**, Ryo Asaoka, Taichi Kiwaki, Hiroki Sugiura, Yohei Hashimoto, Shotaro Asano, Hiroshi Murata, Atsuya Miki, Kazuhiko Mori, Yoko Ikeda, Takashi Kanamoto, Junkichi Yamagami, Kenji Inoue, Masaki Tanito, Kenji Yamanishi, Predicting the Glaucomatous Central 10 Degrees Visual Field from Optical Coherence Tomography using Deep Learning and Tensor Regression, American Journal of Ophthalmology, 2020.
+
+## Conference Publications
+- 2020
 
  
