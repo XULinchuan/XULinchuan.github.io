@@ -67,5 +67,13 @@ I am currently a research assistant professor with Department of Computing, The 
 - COMP2022 Programming For Fintech Applications, 2021 Spring
 
 ## Services
-
+*Journal Reviewer* <br>
+- Scientific Reports
+- Neurocomputing
+- IEEE Access
+- Computational Social Networks
 ## Awards
+- 2018, PAKDD Student Travel Award
+- 2017, DSAA Best Research Paper Award
+- 2017, DSAA Student Travel Award
+- 2017, WSDM Student Travel Award
