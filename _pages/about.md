@@ -16,7 +16,7 @@ The Hong Kong Polytechnic University
 PQ813, Mong Man Wai Building, PolyU<br>
 Hung Hom, Kowloon, Hong Kong SAR, China
 
-E-mail: linchxu (at) comp.polyu.edu.hk
+E-mail: linch.xu (at) comp.polyu.edu.hk
 
 
 ## Biography
