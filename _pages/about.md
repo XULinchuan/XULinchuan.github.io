@@ -16,7 +16,7 @@ The Hong Kong Polytechnic University
 PQ813, Mong Man Wai Building, PolyU<br>
 Hung Hom, Kowloon, Hong Kong SAR, China
 
-E-mail: linch.xu (at) comp.polyu.edu.hk<br>
+E-mail: linch.xu (at) polyu.edu.hk<br>
 Tel: (852) 2766 7276 <br>
 Fax: (852) 2774 0842
 
