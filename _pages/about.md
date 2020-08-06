@@ -31,9 +31,11 @@ I am currently a research assistant professor with Department of Computing, The 
 Data mining, big data analytics, deep learning, and biomedical informatics. 
 
 ## News
+- A paper about glaucoma progression prediction is accepted for publication in Ophthalmology Glaucoma.
 
 ## Journal Publications
 *2020* <br>
+- **Linchuan Xu**, Ryo Asaoka, Hiroshi Murata, Taichi Kiwaki, Yuhui Zheng, Masato Matsuura, Yuri Fujino, Masaki Tanito, Kazuhiko Mori,Yoko Ikeda, Takashi Kanamoto, Kenji Yamanishi, Improving visual field trend analysis with optical coherence tomography and deeply-regularized latent-space linear regression, to appear in Ophthalmology Glaucoma.
 - Wei Li, **Linchuan Xu**, Zhixuan Liang, Senzhang Wang, Jiannong Cao, Chao Ma, Xiaohui Cui, Sketch-then-Edit Generative Adversarial Network, to appear in Knowledge-Based Systems.
 
 - **Linchuan Xu**, Ryo Asaoka, Taichi Kiwaki, Hiroki Sugiura, Yohei Hashimoto, Shotaro Asano, Hiroshi Murata, Atsuya Miki, Kazuhiko Mori, Yoko Ikeda, Takashi Kanamoto, Junkichi Yamagami, Kenji Inoue, Masaki Tanito, Kenji Yamanishi, Predicting the Glaucomatous Central 10 Degrees Visual Field from Optical Coherence Tomography using Deep Learning and Tensor Regression, American Journal of Ophthalmology, 2020.
