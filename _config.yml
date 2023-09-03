@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Linchuan Xu"
 title_separator          : "-"
 name                     : &name "Linchuan Xu"
-description              : &description "Research Assistant Professor, HK PolyU"
+description              : &description "CTO, TheSEA Inc."
 url                      : https://xulinchuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XULinchuan.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "XU, Linchuan (许林川)"
   avatar           : "profile.png"
-  bio              : "Research Assistant Professor, HK PolyU"
-  location         : "HK, China"
+  bio              : "CTO, TheSEA"
+  location         : "Tokyo, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=QlVyaUIAAAAJ&hl=en"
-  email            : "linch.xu@polyu.edu.hk"
+  email            : "linchuan.xu@thesea.ai"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
