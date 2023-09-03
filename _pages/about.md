@@ -8,30 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-Research Assistant Professor
+Chief Technology Officer
 
-Department of Computing<br>
-The Hong Kong Polytechnic University
+TheSEA Inc<br>
 
-PQ813, Mong Man Wai Building, PolyU<br>
-Hung Hom, Kowloon, Hong Kong SAR, China
+E-mail: linchuan.xu (at) thesea.ai<br>
 
-E-mail: linch.xu (at) polyu.edu.hk<br>
-Tel: (852) 2766 7276 <br>
-Fax: (852) 2774 0842
+
+Part-Time Project Researcher 
+
+Department of Mathematical Informatics<br>
+Graduate School of Information Science and Technology<br>
+The University of Tokyo
 
 
 ## Biography
 
 <div style="text-align: justify"> 
-I am currently a research assistant professor with Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong. Prior to that, I was a post-doctoral researcher with Department of Mathematical Informatics, Graduate School of Information Science and Technology at the University of Tokyo, Japan, under the supervision of Professor <a href="http://www.ibis.t.u-tokyo.ac.jp/yamanishi/index_e.html">Kenji Yamanishi</a>, from August 2018 to June 2020. I received the B.E. degree in Information Engineering from Beijing University of Posts and Telecommunications in 2013, and the Ph.D. degree from Department of Computing of the Hong Kong Polytechnic University, under the supervision of Professor <a href="http://www4.comp.polyu.edu.hk/~csjcao/">Jiannong Cao</a>, in 2018. From 2015 to 2016, I visited BDSC lab led by Professor <a href="https://www.cs.uic.edu/PSYu/">Philip S. Yu</a> in University of Illinois at Chicago, USA. 
+I am currently the CTO of TheSEA Inc and a part-time project researcher with The University of Tokyo. Prior to that, I was Research Assistant Professor with Department of Computing, the Hong Kong Polytechnic University from July 2020 to July 2023. I was a post-doctoral researcher with Department of Mathematical Informatics, Graduate School of Information Science and Technology at the University of Tokyo, Japan, under the supervision of Professor <a href="http://www.ibis.t.u-tokyo.ac.jp/yamanishi/index_e.html">Kenji Yamanishi</a>, from August 2018 to June 2020. I received the B.E. degree in Information Engineering from Beijing University of Posts and Telecommunications in 2013, and the Ph.D. degree from Department of Computing of the Hong Kong Polytechnic University, under the supervision of Professor <a href="http://www4.comp.polyu.edu.hk/~csjcao/">Jiannong Cao</a>, in 2018. From 2015 to 2016, I visited BDSC lab led by Professor <a href="https://www.cs.uic.edu/PSYu/">Philip S. Yu</a> in University of Illinois at Chicago, USA. 
 </div>
 
 ## Research Interests
-Data mining, big data analytics, deep learning, and biomedical informatics. 
+Data mining, deep learning, and health informatics. 
 
 ## News
-- A paper about glaucoma progression prediction is accepted for publication in Ophthalmology Glaucoma.
+- A paper about graph data augmentation is accepted to ICDM2023.
 
 ## Journal Publications
 *2020* <br>
