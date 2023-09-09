@@ -35,6 +35,20 @@ Data mining, deep learning, and health informatics.
 - A paper about graph data augmentation is accepted to ICDM2023.
 
 ## Journal Publications
+*2022* <br>
+- Chuan-hao Lin, **Linchuan Xu**, Kenji Yamanishi, Network Change Detection Based on Random Walk in Latent Space, IEEE Transactions on Knowledge and Data Engineering, to appear.
+
+*2021* <br>
+- Kenji Yamanishi, **Linchuan Xu**, Ryo Yuki, Shintaro Fukushima, Chuan-hao Lin, Change Sign Detection with Differential MDL Change Statistics and Its Applications to COVID-19 Pandemic Analysis, Scientific Reports, 2021, 11(1), pp. 1-15.
+
+- Ryo Asaoka, **Linchuan Xu**, Hiroshi Murata, Taichi Kiwaki, Masato Matsuura, Yuri Fujino, Masaki Tanito, Kazuhiko Mori, Yoko Ikeda, Takashi Kanamoto, Kenji Inoue, Jukichi Yamagami, Kenji Yamanishi, A joint multitask learning model for cross-sectional and longitudinal predictions of visual field using optical coherence tomography, to appear in Ophthalmology Science Journal.
+
+- Jun Huang, **Linchuan Xu**, Kun Qian, Jing Wang, Kenji Yamanishi, Multi-label learning with missing and completely unobserved labels, to appear in Data Mining and Knowledge Discovery.
+
+- Wei Li, **Linchuan Xu**, Zhixuan Liang, Senzhang Wang, Jiannong Cao, Thomas C.Lam, Xiaohui Cui, JDGAN: Enhancing generator on extremely limited data via joint distribution, Neurocomputing, 2021, 431, pp. 148-162.
+ 
+- **Linchuan Xu**, Ryo Asaoka, Hiroshi Murata, Taichi Kiwaki, Yuhui Zheng, Masato Matsuura, Yuri Fujino, Masaki Tanito, Kazuhiko Mori,Yoko Ikeda, Takashi Kanamoto, Kenji Yamanishi, Improving visual field trend analysis with optical coherence tomography and deeply-regularized latent-space linear regression, Ophthalmology Glaucoma, 4(1), pp. 78-88.
+
 *2020* <br>
 - **Linchuan Xu**, Ryo Asaoka, Hiroshi Murata, Taichi Kiwaki, Yuhui Zheng, Masato Matsuura, Yuri Fujino, Masaki Tanito, Kazuhiko Mori,Yoko Ikeda, Takashi Kanamoto, Kenji Yamanishi, Improving visual field trend analysis with optical coherence tomography and deeply-regularized latent-space linear regression, to appear in Ophthalmology Glaucoma.
 - Wei Li, **Linchuan Xu**, Zhixuan Liang, Senzhang Wang, Jiannong Cao, Chao Ma, Xiaohui Cui, Sketch-then-Edit Generative Adversarial Network, to appear in Knowledge-Based Systems.
@@ -52,6 +66,13 @@ Data mining, deep learning, and health informatics.
 - **Linchuan Xu**, Xiaokai Wei, Jiannong Cao, Philip S. Yu, ICANE: Interaction Content-Aware Network Embedding via Co-embedding of Nodes and Edges, International Journal of Data Science and Analytics, 2018. pp. 1-14.
 
 ## Conference Publications
+*2021* <br>
+- Atsushi Suzuki, Atsushi Nitanda, jing wang, **Linchuan Xu**, Kenji Yamanishi, Marc Cavazza, Generalization Bounds for Graph Embedding Using Negative Sampling: Linear vs Hyperbolic, to appear in NeurIPS 2021.
+
+- **Linchuan Xu**, Ryo Asaoka, Taichi Kiwaki, Hiroshi Murata, Yuri Fujino, and Kenji Yamanishi, PAMI: A Computational Module for Joint Estimation and Progression Prediction of Glaucoma, to appear in KDD 2021.
+
+- Atsushi Suzuki, Atsushi Nitanda, Jing Wang, **Linchuan Xu**, Kenji Yamanishi and Marc Cavazza, Generalization Error Bound for Hyperbolic Ordinal Embedding, to appear in ICML 2021.
+
 *2020* <br>
 - Jun Huang, **Linchuan Xu**, Jing Wang, Lei Feng and Kenji Yamanishi, Discovering Latent Class Labels for Multi-Label Learning, to appear in IJCAI-PRICAI 2020.
 
