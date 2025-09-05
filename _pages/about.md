@@ -12,7 +12,7 @@ Chief Technology Officer
 
 TheSEA Inc<br>
 
-E-mail: linchuan.xu (at) thesea.ai<br>
+E-mail: unilin54092 (at) gmail.com<br>
 
 
 Part-Time Project Researcher 
@@ -29,10 +29,7 @@ I am currently the CTO of TheSEA Inc and a part-time project researcher with The
 </div>
 
 ## Research Interests
-Data mining, deep learning, and health informatics. 
-
-## News
-- A paper about graph data augmentation is accepted to ICDM2023.
+Diffusion models, data mining, deep learning, and health informatics. 
 
 ## Journal Publications
 *2022* <br>
